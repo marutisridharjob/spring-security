@@ -1,0 +1,8 @@
+#For demo Override default username and pwd as bellow
+#spring:
+#  security:
+#    user:
+#      name: testuser
+#      password: testapi
+
+
